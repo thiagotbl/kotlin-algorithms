@@ -1,8 +1,8 @@
-# Leetcode 201 - Design and SEarch Words Data Structure
+# Leetcode 201 - Design and Search Words Data Structure
 
 [link](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 
-### Medium
+### Difficulty: Medium
 
 Design a data structure that supports adding new words and finding if a string matches any previously added string.
 
